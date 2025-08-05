@@ -1,6 +1,3 @@
-# flappyBird
-Great! It's always helpful to acknowledge resources that have guided your development process. You can include this acknowledgment directly in your README file to give credit to the YouTube channel that inspired or assisted you. Here’s how you might update your README to include this:
-
 # Flappy Bird NEAT
 
 Welcome to the repository of Flappy Bird NEAT, a modern take on the classic Flappy Bird game enhanced with the power of the NeuroEvolution of Augmenting Topologies (NEAT) algorithm. This project demonstrates the fascinating capabilities of genetic algorithms in evolving a neural network that masters the game autonomously.
